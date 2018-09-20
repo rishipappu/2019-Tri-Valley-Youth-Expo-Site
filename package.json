@@ -1,0 +1,25 @@
+{
+  "name": "2019-tri-valley-youth-expo-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishipappu/2019-Tri-Valley-Youth-Expo-Site.git"
+  },
+  "author": "Rishi Pappu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishipappu/2019-Tri-Valley-Youth-Expo-Site/issues"
+  },
+  "homepage": "https://github.com/rishipappu/2019-Tri-Valley-Youth-Expo-Site#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
