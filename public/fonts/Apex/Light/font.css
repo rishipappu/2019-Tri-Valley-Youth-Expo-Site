@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ApexMk2-LightCondensed';
+  src: url('ApexMk2-LightCondensed.eot');
+  src: url('ApexMk2-LightCondensed.woff2') format('woff2'),
+       url('ApexMk2-LightCondensed.woff') format('woff'),
+       url('ApexMk2-LightCondensed.ttf') format('truetype'),
+       url('ApexMk2-LightCondensed.svg#ApexMk2-LightCondensed') format('svg'),
+       url('ApexMk2-LightCondensed.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ApexMk2-Regular';
+  src: url('ApexMk2-Regular.eot');
+  src: url('ApexMk2-Regular.woff2') format('woff2'),
+       url('ApexMk2-Regular.woff') format('woff'),
+       url('ApexMk2-Regular.ttf') format('truetype'),
+       url('ApexMk2-Regular.svg#ApexMk2-Regular') format('svg'),
+       url('ApexMk2-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

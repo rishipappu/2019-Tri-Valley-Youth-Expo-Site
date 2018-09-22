@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'Alaska';
+  src: url('../fonts/Alaska/ALASKA.woff') format('woff'),
+       url('../fonts/Alaska/ALASKA.ttf') format('truetype'),
+       url('../fonts/Alaska/ALASKA.svg#ALASKA') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alaska';
+  src: url('../fonts/Alaska/Alaska Font.eot');
+  src: url('../fonts/Alaska/Alaska Font.woff2') format('woff2'),
+       url('../fonts/Alaska/Alaska Font.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('../fonts/Aleo/Regular/Aleo-Regular.eot');
+  src: url('../fonts/Aleo/Regular/Aleo-Regular.woff2') format('woff2'),
+       url('../fonts/Aleo/Regular/Aleo-Regular.woff') format('woff'),
+       url('../fonts/Aleo/Regular/Aleo-Regular.ttf') format('truetype'),
+       url('../fonts/Aleo/Regular/Aleo-Regular.svg#Aleo-Regular') format('svg'),
+       url('../fonts/Aleo/Regular/Aleo-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo-Bold';
+  src: url('../fonts/Aleo/Bold/Aleo-Bold.woff') format('woff'),
+       url('../fonts/Aleo/Bold/Aleo-Bold.ttf') format('truetype'),
+       url('../fonts/Aleo/Bold/Aleo-Bold.svg#Aleo-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo Bold';
+  src: url('../fonts/Aleo/Bold/aleo-bold-webfont.eot');
+  src: url('../fonts/Aleo/Bold/aleo-bold-webfont.woff2') format('woff2'),
+       url('../fonts/Aleo/Bold/aleo-bold-webfont.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo-Light';
+  src: url('../fonts/Aleo/Light/Aleo-Light.eot');
+  src: url('../fonts/Aleo/Light/Aleo-Light.woff2') format('woff2'),
+       url('../fonts/Aleo/Light/Aleo-Light.woff') format('woff'),
+       url('../fonts/Aleo/Light/Aleo-Light.ttf') format('truetype'),
+       url('../fonts/Aleo/Light/Aleo-Light.svg#Aleo-Light') format('svg'),
+       url('../fonts/Aleo/Light/Aleo-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Apex Bold';
+  src: url('../fonts/Apex/Bold/ApexMk2-BoldExtended.eot');
+  src: url('../fonts/Apex/Bold/ApexMk2-BoldExtended.woff2') format('woff2'),
+       url('../fonts/Apex/Bold/ApexMk2-BoldExtended.woff') format('woff'),
+       url('../fonts/Apex/Bold/ApexMk2-BoldExtended.ttf') format('truetype'),
+       url('../fonts/Apex/Bold/ApexMk2-BoldExtended.svg#ApexMk2-BoldExtended') format('svg'),
+       url('../fonts/Apex/Bold/ApexMk2-BoldExtended.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Apex Light';
+  src: url('../fonts/Apex/Light/ApexMk2-LightCondensed.eot');
+  src: url('../fonts/Apex/Light/ApexMk2-LightCondensed.woff2') format('woff2'),
+       url('../fonts/Apex/Light/ApexMk2-LightCondensed.woff') format('woff'),
+       url('../fonts/Apex/Light/ApexMk2-LightCondensed.ttf') format('truetype'),
+       url('../fonts/Apex/Light/ApexMk2-LightCondensed.svg#ApexMk2-LightCondensed') format('svg'),
+       url('../fonts/Apex/Light/ApexMk2-LightCondensed.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Apex';
+  src: url('../fonts/Apex/Regular/ApexMk2-Regular.eot');
+  src: url('../fonts/Apex/Regular/ApexMk2-Regular.woff2') format('woff2'),
+       url('../fonts/Apex/Regular/ApexMk2-Regular.woff') format('woff'),
+       url('../fonts/Apex/Regular/ApexMk2-Regular.ttf') format('truetype'),
+       url('../fonts/Apex/Regular/ApexMk2-Regular.svg#ApexMk2-Regular') format('svg'),
+       url('../fonts/Apex/Regular/ApexMk2-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bariol Serif';
+    src: url('../fonts/Bariol\ Serif/Webfont/Bariol-Regular-Webfont/bariol_serif_regular-webfont.eot');
+    src: url('../fonts/Bariol\ Serif/Webfont/Bariol-Regular-Webfont/bariol_serif_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Bariol\ Serif/Webfont/Bariol-Regular-Webfont/bariol_serif_regular-webfont.woff2') format('woff2'),
+         url('../fonts/Bariol\ Serif/Webfont/Bariol-Regular-Webfont/bariol_serif_regular-webfont.woff') format('woff'),
+         url('../fonts/Bariol\ Serif/Webfont/Bariol-Regular-Webfont/bariol_serif_regular-webfont.ttf') format('truetype'),
+         url('../fonts/Bariol\ Serif/Webfont/Bariol-Regular-Webfont/bariol_serif_regular-webfont.svg#bariol_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Kiona';
+  src: url('../fonts/Kiona/Kiona-Regular.eot');
+  src: url('../fonts/Kiona/Kiona-Regular.woff2') format('woff2'),
+       url('../fonts/Kiona/Kiona-Regular.woff') format('woff'),
+       url('../fonts/Kiona/Kiona-Regular.ttf') format('truetype'),
+       url('../fonts/Kiona/Kiona-Regular.svg#Kiona-Regular') format('svg'),
+       url('../fonts/Kiona/Kiona-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neon';
+  src: url('../fonts/Neon/NEON.eot');
+  src: url('../fonts/Neon/NEON.woff2') format('woff2'),
+       url('../fonts/Neon/NEON.woff') format('woff'),
+       url('../fonts/Neon/NEON.ttf') format('truetype'),
+       url('../fonts/Neon/NEON.svg#NEON') format('svg'),
+       url('../fonts/Neon/NEON.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tahu';
+  src: url('../fonts/Tahu/Tahu!.eot');
+  src: url('../fonts/Tahu/Tahu!.woff2') format('woff2'),
+       url('../fonts/Tahu/Tahu!.woff') format('woff'),
+       url('../fonts/Tahu/Tahu!.ttf') format('truetype'),
+       url('../fonts/Tahu/Tahu!.svg#Tahu!') format('svg'),
+       url('../fonts/Tahu/Tahu!.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
