@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Ikaros-Light';
+  src: url('Ikaros-Light.eot');
+  src: url('Ikaros-Light.woff2') format('woff2'),
+       url('Ikaros-Light.woff') format('woff'),
+       url('Ikaros-Light.ttf') format('truetype'),
+       url('Ikaros-Light.svg#Ikaros-Light') format('svg'),
+       url('Ikaros-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

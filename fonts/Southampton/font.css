@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SouthamptonRegular';
+  src: url('SouthamptonRegular.eot');
+  src: url('SouthamptonRegular.woff2') format('woff2'),
+       url('SouthamptonRegular.woff') format('woff'),
+       url('SouthamptonRegular.ttf') format('truetype'),
+       url('SouthamptonRegular.svg#SouthamptonRegular') format('svg'),
+       url('SouthamptonRegular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
